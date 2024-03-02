@@ -1,0 +1,41 @@
+body {
+  font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+
+ol,ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+html,
+body,
+#root{
+  height: 100%;
+}
+#root{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+main{
+  flex-grow: 1;
+}
+.container{
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+.sitenav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sitenav__item{
+  display: flex;
+  gap: 10px;
+}

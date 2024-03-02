@@ -1,0 +1,39 @@
+{
+    "news":[
+        {   
+            "id": 1,
+            "title": "“Xorazm viloyatida tuproq yo‘llar umuman qolmasligi kerak” — Shavkat Mirziyoyev",
+            "author": "Madina Nurman",
+            "description": "Shavkat Mirziyoyev Xorazm viloyatini ijtimoiy-iqtisodiy rivojlantirish vazifalari yuzasidan yig‘ilishda viloyat infratuzilmasini yaxshilashga alohida e’tibor qaratilishini aytdi. Ma’lum qilinishicha, 2024-yilda 119 ta ko‘p qavatli uy qurib, 3,5 mingta oilaning yashash sharoitini yaxshilash rejalashtirilgan. “Yangi O‘zbekiston” massivlari tashkil etilib, 100 ta ko‘p qavatli uy qurilishi boshlanadi.",
+            "postedAt": " 08:25 , 25.02.2024"
+        },
+        {
+            "id": 2,
+            "title": "Qashqadaryoda iste’molga yaroqsiz alkogol mahsulotlari savdosiga chek qo‘yildi",
+            "author": "Baxrom Ayubov",
+            "description":"Qashqadaryo viloyatida isteʼmolga yaroqsiz alkogol mahsulotlarini muomalaga kiritilishining oldi olindi, deb xabar beradi Bosh prokuratura huzuridagi departament.Qayd etilishicha, departamentning Koson tuman bo‘limi tomonidan tuman IIB xodimlari bilan hamkorlikda tezkor tadbir o‘tkazilgan. Tadbirda A.Z. ismli shaxs noqonuniy daromad orttirish maqsadida Kasbi tumani “Tinchlik” MFY hududida ikki nafar fuqaroga jami 600 dona “Russkaya vodka” nomli isteʼmolga yaroqsiz va qalbaki aksiz markali alkogol mahsulotini sotgan vaqtida ashyoviy dalillar bilan ushlangan.",
+            "postedAt": "12:24 , 29.02.2024"
+        },
+        {
+            "id": 3,
+            "title": "O‘zbekistonda elektr tarmog‘idan o‘g‘rincha foydalanish bo‘yicha yana 3 ta holat fosh etildi",
+            "author": "Bosh prokuratura departamenti",
+            "description":"O‘zbekistonda elektr energiyasidan noqonuniy foydalanish bo‘yicha yana 3 ta holat fosh etildi. Bosh prokuratura huzuridagi departamentning Qo‘shrabot tuman bo‘limi tomonidan o‘tkazilgan tergovga qadar tekshiruvlarda “J.I.” fermer xo‘jaligi va “S.P.” MCHJ mas’ul shaxslari suv nasoslari hamda yangi qurilayotgan binoni isitish pechlari hamda boshqa elektr jihozlarni hech qanday hujjatsiz tijorat maqsadida umumiy foydalanishdagi elektr tarmog‘iga o‘g‘rilik yo‘li bilan ulab, jami 256,8 million so‘mlik elektr energiyasidan noqonuniy foydalangani aniqlangan.",
+            "postedAt": " 18:32 , 01.03.2024"
+        },
+        {
+            "id":4 ,
+            "title": "Ilon Mask ChatGPT ishlab chiqaruvchisini sudga berdi",
+            "author": "Ikrom Adxamov",
+            "description":" Amerikalik milliarder Ilon Mask ChatGPT ishlab chiqaruvchisi OpenAI kompaniyasi ustidan sudga murojaat qildi. Bu haqda Courthouse News Service xabar berdi.Maskning so‘zlariga ko‘ra, kompaniya insoniyat manfaati uchun ishlab chiqilishi kerakligi haqidagi shartni buzgan. Jumladan, OpenAI o‘z texnologiyasining dastabki kodini (isxodniy kod) ochiq qoldirishi kerak edi, biroq Microsoft bilan hamkorlikdan so‘ng kompaniya uni yashirgan va korporatsiyaning “de-fakto sho‘ba korxonasi”ga aylangan. ",
+            "postedAt": "30.11.2023, 10:22"
+        },
+        {
+            "id": 5,
+            "title": "Nodirbek Abdusattorov onlayn jadvalda jahonda 8-o‘ringa ko‘tarildi",
+            "author": "Luna Israilova",
+            "description":"Bir necha kun oldin o‘zbek shaxmatchilar orasida  birinchi bor eng yuqori reytingga ega top-10 shaxmatchi qatoriga kirib rekord o‘rnatgan Nodirbek, o‘ziga tegishli rekordni o‘zi yangiladi va hozirgi onlayn jadvalda 8-pog‘onaga ko‘tarildi.Demak, Nodirbek Abdusattorovning ochkolari mart oyi yakunlari hisobotida e’lon qilinadi va 1-aprel sanasida e‘lon qilingan reytingda qo‘shib hisoblanadi. ",
+            "postedAt": " 10:20 , 01.02.2024"
+        }
+    ]
+}
